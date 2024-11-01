@@ -1,0 +1,260 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-07 07:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-wegfinder-admin.php:27 admin/class-wegfinder-admin.php:103
+#: admin/class-wegfinder-admin.php:216
+msgid "Destinations"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:28
+msgid "New"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:29 admin/class-wegfinder-admin.php:105
+#: admin/class-wegfinder-admin.php:105
+msgid "Design"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:49
+msgid "Generic, no destination set"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:49 admin/class-wegfinder-admin.php:104
+#: admin/class-wegfinder-admin.php:124 admin/class-wegfinder-admin.php:596
+#: admin/class-wegfinder-admin.php:596
+msgid "New Destination"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:103
+msgid "All Destinations"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:104 admin/class-wegfinder-admin.php:216
+msgid "Add New"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:139
+msgid "Destination created."
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:139 admin/class-wegfinder-admin.php:179
+#: admin/class-wegfinder-admin.php:257
+msgid "OK"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:139
+msgid "Show destinations."
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:141 admin/class-wegfinder-admin.php:144
+msgid "The destination could not be created."
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:141 admin/class-wegfinder-admin.php:144
+#: admin/class-wegfinder-admin.php:181 admin/class-wegfinder-admin.php:184
+#: admin/class-wegfinder-admin.php:231
+msgid "ERROR"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:149 admin/class-wegfinder-admin.php:469
+msgid "Create"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:179
+#, php-format
+msgid "Changes of destination #%s saved."
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:181 admin/class-wegfinder-admin.php:184
+#, php-format
+msgid "Changes of destination #%s could not be saved."
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:191
+msgid "Edit Destination"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:192 admin/class-wegfinder-admin.php:275
+msgid "Save"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:192
+msgid "Cancel"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:219
+msgid "Shortcode copied to clipboard"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:229
+#, php-format
+msgid "Destination #%s has been deleted."
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:231
+#, php-format
+msgid "Destination #%s could not be deleted."
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:254
+msgid "Button Design"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:257
+msgid "Design has been saved."
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:264
+msgid "Preview"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:277 admin/class-wegfinder-admin.php:525
+msgid "Reset"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:306
+msgid "Style"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:314
+msgid "Background (individual)"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:322
+msgid "Text (individual)"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:330
+msgid "Size"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:338
+msgid "Target Frame"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:350
+msgid "pink"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:351
+msgid "blue"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:352
+msgid "red"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:353
+msgid "individual"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:370
+msgid "white"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:371
+msgid "black"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:388
+msgid "Own window (wegfinder)"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:389
+msgid "Same window (_self)"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:390
+msgid "New window (_blank)"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:500 admin/class-wegfinder-admin.php:501
+msgid "Search"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:501
+msgid "Search for cities, addresses, stations or places."
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:504 admin/class-wegfinder-admin.php:547
+msgid "Name"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:505
+msgid "Reference name for your destination."
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:509 admin/class-wegfinder-admin.php:548
+msgid "Arrival"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:510
+msgid "Optional"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:510
+msgid "E.g. select an arrival time for events."
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:546
+msgid "ID"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:549
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:565
+msgid "Edit"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:566
+msgid "Delete"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:567
+msgid "Show route"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:568
+msgid "Copy code"
+msgstr ""
+
+#: admin/class-wegfinder-admin.php:595
+msgid "No shortcodes created, yet."
+msgstr ""
+
+#. Name of the plugin
+msgid "wegfinder"
+msgstr ""
+
+msgid ""
+"With wegfinder buttons, your website visitors will find all the ways (public "
+"transport, car, bicycle, sharing, ...) to the places and events in Austria "
+"indicated on your website."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wegfinder.at/plugin/wordpress"
+msgstr ""
+
+#. Author of the plugin
+msgid "iMobility GmbH"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wegfinder.at"
+msgstr ""
